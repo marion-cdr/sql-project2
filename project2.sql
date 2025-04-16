@@ -1,7 +1,3 @@
--- ---------------------------------------------------
--- 📁 Projet SQL – Fidélité Clients Grande Distribution
--- ---------------------------------------------------
-
 .mode column 
 .headers on 
 
